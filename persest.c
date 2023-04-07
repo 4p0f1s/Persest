@@ -157,7 +157,6 @@ int main(int argc, char *argv[]) {
          return 1;
       } else {
         char command[500];
-        printf("Ahora si eliminamos!\n");
           if (dom != 0){
               sprintf(command, "net user %s\%s /del",Domain, UserName);
               system(command);
