@@ -1,3 +1,7 @@
+[![Tested versions](https://img.shields.io/badge/tested%20versions-0.1-blue)](https://github.com/4p0f1s/Persest/releases/tag/Persest-v0.1)
+[![License](https://img.shields.io/badge/license-LGPL--3.0-green)](https://github.com/4p0f1s/Persest/blob/main/LICENSE)
+![Platform](https://img.shields.io/badge/platform-win--32%20%7C%20win--64-lightgrey)
+
 # Persest
 
 Persest is a Windows Post-Exploitation persistence tool. Has 4 built-in features, 3 of them are working and 1 is still in development.
